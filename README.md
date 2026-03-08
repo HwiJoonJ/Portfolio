@@ -31,7 +31,7 @@ ML/Stats    scikit-learn · TensorFlow · statsmodels · PyWavelets
 | MBTI | ENTJ |
 | 관심사 | Statistical Modeling, Reliability Engineering, Anomaly Detection |
 | 취미 | 🏀 농구 · 🎳 볼링 |
-| 좌우명 | 될 때까지 한다 |
+| 좌우명 | 맡은 바 끝까지 마무리한다 |
 
 <br>
 
